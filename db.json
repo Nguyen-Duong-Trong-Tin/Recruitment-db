@@ -1,0 +1,386 @@
+{
+  "cities": [
+    {
+      "key": 1,
+      "value": "Ha Noi"
+    },
+    {
+      "key": 2,
+      "value": "Ho Chi Minh"
+    },
+    {
+      "key": 3,
+      "value": "Da Nang"
+    },
+    {
+      "key": 4,
+      "value": "Can Tho"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML"
+    },
+    {
+      "key": 2,
+      "value": "CSS"
+    },
+    {
+      "key": 3,
+      "value": "Javascript"
+    },
+    {
+      "key": 4,
+      "value": "Database"
+    },
+    {
+      "key": 5,
+      "value": "JSON"
+    },
+    {
+      "key": 6,
+      "value": "PHP"
+    },
+    {
+      "key": 7,
+      "value": "Python"
+    },
+    {
+      "key": 8,
+      "value": "Java"
+    },
+    {
+      "key": 9,
+      "value": "SQL"
+    },
+    {
+      "key": 10,
+      "value": "Angular"
+    },
+    {
+      "key": 11,
+      "value": "NodeJS"
+    },
+    {
+      "key": 12,
+      "value": "ReactJS"
+    },
+    {
+      "key": 13,
+      "value": "VueJS"
+    },
+    {
+      "key": 14,
+      "value": "Django"
+    },
+    {
+      "key": 15,
+      "value": "JQuery"
+    },
+    {
+      "key": 16,
+      "value": "TypeScript"
+    }
+  ],
+  "jobs": [
+    {
+      "idCompany": 1,
+      "name": "Lead Front-end Developer",
+      "tags": [
+        "ReactJS",
+        "Angular",
+        "TypeScript"
+      ],
+      "salary": "5000$",
+      "description": "Work Experience & Education: Above 5 years of experience in frontend/cross-platform or full-stack development.\nSolid foundation in computer science, familiar with common data structures and algorithms.\nSkills: Proficient in frontend-related technology stacks, with solid coding skills and good high-level design abilities.\nPrimary: JavaScript.\nSecondary: HTML5 Team Leader.\nAttitude: Strong sense of responsibility and ability to work under pressure, with good communication skills and meticulous work attitude.\nExcellent logical thinking ability, good at analyzing and solving problems.\nOther requirement: Age: 27 to 35.\nWorking in start-up workplace.",
+      "status": true,
+      "createAt": "29-06-2024 21:22:17",
+      "id": 1,
+      "cities": [
+        "Can Tho"
+      ],
+      "updateAt": "15-7-2024 16:8:0"
+    },
+    {
+      "idCompany": 2,
+      "name": "Microsoft Dynamics 365 Technical Consultant",
+      "tags": [
+        "Nodejs",
+        "Express",
+        "MongoDB"
+      ],
+      "salary": "3200$",
+      "description": "You will be the leading technical consultant for the identified Dynamics Module / Capability,  providing and implementing solutions based on Microsoft Dynamics to help the organisation drive their identified business capabilities in the relevant area. The modules to be implemented include F&O, CRM Sales, Customer Insights, and Commerce. We are looking for suitable experienced candidates to lead in one or more of the solution areas and Dynamics modules.\nResponsibilities: Work with clients to gather and analyse their business requirements related to Dynamics 365 CRM/FO/CS/Commerce and provide technical solutions.\nDesign, develop, and implement customizations, extensions, and integrations.\nPerform system configurations, customizations, and data migrations.\nDevelop and maintain custom workflows, plugins, and scripts to enhance the functionalities.\nAdvise clients on best practices for implementing and optimising to meet their business needs.\nCollaborate with other consultants, project managers, and stakeholders to ensure successful delivery of projects.\nProvide technical support and troubleshooting.\nConduct system testing, user training, and documentation for Commerce solutions.\nStay up-to-date with the latest features and related technologies.\nAssist in pre-sales activities, including solution demonstrations and proposal development.",
+      "status": true,
+      "createAt": "01-05-2023 10:15:30",
+      "id": 2,
+      "cities": [
+        "Ha Noi"
+      ],
+      "updateAt": "02-05-2023 09:20:00"
+    },
+    {
+      "idCompany": 1,
+      "name": "Full-stack Developer",
+      "tags": [
+        "Node.js",
+        "ReactJS"
+      ],
+      "salary": "3500$",
+      "description": "We are seeking a highly skilled Full-stack Developer to join our team. The successful candidate will be responsible for designing, implementing, and maintaining our cloud infrastructure and deployment pipelines. The ideal candidate will have a strong technical background and the ability to work in a fast-paced environment.\nMain Role: Program Development, unit test, bug fix based on the design documents from Customers: System Design and Operation: Development & bug fix, Design implementation step by step, provide System and Solution Architecture.\nComply with standard coding policy of the company.\nWork closely with Team Leader to ensure the project quality.\nAssist Team Leader in reviewing work result of low-level members.\nParticipate in training and knowledge sharing activities.\nFollow the project and organization processes, policies and regulations.\nEnsure the assigned tasks to be performed on-time and with high quality.",
+      "status": false,
+      "createAt": "15-05-2024 16:30:45",
+      "id": 3,
+      "cities": [
+        "Ho Chi Minh"
+      ],
+      "updateAt": "8-7-2024 21:41:23"
+    },
+    {
+      "idCompany": 1,
+      "name": "Senior Data Scientist",
+      "tags": [
+        "SQL",
+        "MongoDB"
+      ],
+      "salary": "4500$",
+      "description": "This role is part of the D&T department of HEINEKEN International. D&T is proud to bring cutting-edge innovation, strong technology, and advanced analytics to HEINEKEN. With speed and agility, we ensure HEINEKEN has the technological competitive advantages it needs to deliver on its ambition.\nThe role in as part of the APAC Data & Analytics Hub is critical in Heineken to operationalise our strategy of standardised and scalable data foundations across the region and enterprise. The role holder will work with colleagues across Heineken as part of a team that drive the Research & Development activities of the Advanced Analytics organization by identifying and developing new Analytics opportunities for the enterprise within a specific Function ([JG20] or a group of Functions).\nIt is essential that the role holder delivers analytical solutions that are both theoretically sound but create immediate business value. This will be achieved by building strong relationships and collaboration with members of the broader HEINEKEN data organisation including Insight Enablement, Data Management and Global Analytics and various programs across the central, regional and Operating Company (OpCo) structures.\nIn particular, he/she will partner with a growing group of data professionals such as Data Engineers, Machine Learning Engineers and Product Managers who play a crucial role in the development and delivery of Analytics products at scale.",
+      "status": true,
+      "createAt": "15-05-2023 16:30:45",
+      "id": 4,
+      "cities": [
+        "Ho Chi Minh"
+      ],
+      "updateAt": "16-05-2023 11:10:15"
+    },
+    {
+      "idCompany": 1,
+      "name": "Mid HTS (Home Trading System) Developer",
+      "tags": [
+        "SQL",
+        "Python"
+      ],
+      "salary": "4500$",
+      "description": "Develop HTS UI and business logic by using JavaScript under the Kiwoom platform.\nWork directly with remote team to clarify tasks and requirements.\nDevelop new features based on the user requirements. (analyzing requirements and system design).\nFix the reported problems/bugs of the system during the integration test, the user acceptance test, and the test for maintenance (need to communicate with backend developers and testers).\nManaging time and resources based on the WBS.\nCompile a weekly-report about the progress of tasks.\nPerform self-learning about a domain knowledge, write a report and conduct a seminar about it.\nWrite high-quality, clean, elegant, maintainable, and testable code.\nMaintaining technical documents up-to-date Mentor junior developers and conduct technical training when needed.\nYou will have the chance to be involved with each stage of different projects, to various aspects of software engineering and fostering your career growth.",
+      "status": true,
+      "createAt": "15-05-2023 16:30:45",
+      "id": 5,
+      "cities": [
+        "Ho Chi Minh"
+      ],
+      "updateAt": "16-05-2023 11:10:15"
+    },
+    {
+      "idCompany": 3,
+      "name": "Backend Developer Python",
+      "tags": [
+        "Django",
+        "SQL",
+        "MySQL",
+        "Cloud"
+      ],
+      "salary": "4500$",
+      "description": "Thiết kế và triển khai các giải pháp big data sử dụng hệ sinh thái Hadoop để đáp ứng các yêu cầu kinh doanh.\nQuản lý cơ sở dữ liệu, bao gồm cả SQL và NoSQL, đảm bảo tính toàn vẹn, hiệu suất và khả năng truy cập của dữ liệu.\nDuy trì các tiêu chuẩn chất lượng code cao và tổ chức code hiệu quả bằng cách sử dụng các công cụ và quản lý code hiện đại.\nÁp dụng DevOps để tự động hóa và tinh gọn quy trình phát triển và triển khai.\nLuôn cập nhật các công nghệ và phương pháp mới trong lĩnh vực big data, DevOps và các lĩnh vực liên quan để thúc đẩy đổi mới liên tục.",
+      "status": true,
+      "createAt": "15-05-2023 16:30:45",
+      "id": 6,
+      "cities": [
+        "Ho Chi Minh"
+      ],
+      "updateAt": "25-06-2024 9:10:15"
+    },
+    {
+      "name": "Leader AI",
+      "tags": [
+        "Python"
+      ],
+      "salary": "6000$",
+      "cities": [
+        "Ho Chi Minh"
+      ],
+      "description": "&20340928490sfisfjsafsdaklfjaslkfsd;alj",
+      "status": true,
+      "idCompany": "1",
+      "createAt": "7-7-2024 23:2:47",
+      "id": 8
+    }
+  ],
+  "cvs": [
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "tinht5667@gmail.com",
+      "city": "Can Tho",
+      "description": "Tôi yêu Front end, tôi có 10 năm kinh nghiệm với lĩnh vực này.",
+      "linkProject": "https://project.com",
+      "idJob": 1,
+      "idCompany": 1,
+      "sent": "8-7-2024 19:21:14",
+      "statusRead": true,
+      "id": 1
+    },
+    {
+      "fullName": "Nguyễn Huỳnh Mỹ Hân",
+      "phone": "0121515125",
+      "email": "han@student.ctu.edu.vn",
+      "city": "Ho Chi Minh",
+      "description": "Mình đặc biệt yêu thích việc tạo ra các giao diện người dùng thân thiện và trực quan, mang lại trải nghiệm tốt nhất cho người dùng. Mình luôn nỗ lực học hỏi và cập nhật các công nghệ mới nhất để áp dụng vào công việc, đồng thời làm việc chặt chẽ với các thành viên trong nhóm để đảm bảo dự án được hoàn thành đúng tiến độ và đạt chất lượng cao nhất.",
+      "linkProject": "https://sdfdsfssdj.com",
+      "idJob": 1,
+      "idCompany": 1,
+      "sent": "8-7-2024 19:22:54",
+      "statusRead": false,
+      "id": 2
+    },
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "ndtt@gmail.com",
+      "city": "Ha Noi",
+      "description": "Ngoài công việc, mình cũng thích tham gia vào các cộng đồng lập trình, chia sẻ kiến thức và học hỏi từ các đồng nghiệp trong ngành. Rất mong được kết nối và hợp tác cùng mọi người!",
+      "linkProject": "https://kpsaf.com",
+      "idJob": 3,
+      "idCompany": 1,
+      "sent": "8-7-2024 19:23:45",
+      "statusRead": false,
+      "id": 3
+    },
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "tinht5667@gmail.com",
+      "city": "Can Tho",
+      "description": "sfdsdfasdfasdfasdfasdfsdfasdfa",
+      "linkProject": "sdasdfadfsasdfasdfasdafsdfasdafsdfasadf",
+      "idJob": 4,
+      "idCompany": 1,
+      "sent": "8-7-2024 19:24:1",
+      "statusRead": false,
+      "id": 4
+    },
+    {
+      "fullName": "Tín Nguyễn",
+      "phone": "0832899717",
+      "email": "contact@abc.com",
+      "city": "Da Nang",
+      "description": "sdafsdafsdafsdaf",
+      "linkProject": "fsafsdafdsafdsafdasfdasfdsafasfdsafasdfsafsafsaf",
+      "idJob": 5,
+      "idCompany": 1,
+      "sent": "8-7-2024 19:24:18",
+      "statusRead": false,
+      "id": 5
+    },
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "tinht5667@gmail.com",
+      "city": "Can Tho",
+      "description": "Tôi có 60 năm kinh nghiệm",
+      "linkProject": "asdfsdf.com",
+      "idJob": 8,
+      "idCompany": "1",
+      "sent": "8-7-2024 19:24:46",
+      "statusRead": false,
+      "id": 6
+    },
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "ndtt@gmail.com",
+      "city": "Ho Chi Minh",
+      "description": "sadfdasfsaf",
+      "linkProject": "sadfasfafsfsaf",
+      "idJob": 1,
+      "idCompany": 1,
+      "sent": "15-7-2024 22:17:0",
+      "statusRead": false,
+      "id": 7
+    },
+    {
+      "fullName": "Nguyễn Dương Trọng Tín",
+      "phone": "0832899717",
+      "email": "tinht5667@gmail.com",
+      "city": "Ho Chi Minh",
+      "description": "sdfasfsaf",
+      "linkProject": "sadfasfsa",
+      "idJob": 2,
+      "idCompany": 2,
+      "sent": "15-7-2024 22:25:28",
+      "statusRead": false,
+      "id": 8
+    }
+  ],
+  "companies": [
+    {
+      "companyName": "HEINEKEN Vietnam Company",
+      "phone": "0935324245",
+      "email": "contact@abc.com",
+      "password": "123456",
+      "token": "pwYhBgkNOANIjtKI7WHz",
+      "id": 1,
+      "quantityPeople": 3000,
+      "description": "HEINEKEN Vietnam is a successful joint venture between HEINEKEN and SATRA (Saigon Trading Group). The company has a proud history of over 30 years – growing from the first brewery in Ho Chi Minh City in 1991 to 6 nationwide with over 3,000 employees today. We take Vietnamese people on our growth journey in the country. We are currently creating 246,000 jobs across the value chain, contributing an equivalence of 1.04% of Vietnam’s total GDP to the local economy and are among the country’s top taxpayers.\nAs a relentlessly innovative company, we combine international expertise with the local know-how and talent; and have been delighting Vietnamese consumers with a wide product portfolio for a variety of local tastes and drinking occasions, including Heineken®, Tiger, Larue, BIVINA, Bia Viet, Strongbow and Edelweiss. Many of our beers are innovations made exclusively for Vietnam and by Vietnamese brew masters. Sustainability and responsibility are the way we do business at HEINEKEN Vietnam.\nFrom day one, we have been committed to “Brewing a Better Vietnam”, and for 7 consecutive years 2016 – 2022, we have been recognized by the Vietnam Chamber of Commerce and Industry (VCCI) as one of the top 3 most sustainable companies in the manufacturing sector. Currently 96% of the energy powering our breweries is renewable and 100% of our waste and by products are reused and/or recycled. We are also passionate about advocating responsible consumption and addressing drink driving in Vietnam, and in 2020 introduced Heineken® 0.0 to support the Government’s efforts in this area.",
+      "address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+      "workingTime": "T2 - T7",
+      "website": "https://abc.com"
+    },
+    {
+      "companyName": "PHYSCODE Company",
+      "phone": "0935324245",
+      "email": "contact@abc.com",
+      "password": "123456",
+      "token": "JqHrujb2R9HeyJC0Txj9",
+      "id": 2,
+      "quantityPeople": 1000,
+      "description": "PHYSCODE VIET Technology Joint Stock Company was established in January 2016 by a team of founders who have extensive experience (over 10 years) in the software technology industry with the goal of becoming a professional and reliable partner in implementing information technology services for customers.\nPHYSCODE's areas of operation include: Consulting, building, transferring software systems according to orders for domestic and foreign business customers. Build Theme, Template, Plugin on Themeforest system for international customers (https://themeforest.net/user/physcode/portfolio).",
+      "address": "7th Floor, Building A_B Imperia Garden 203, Nguyen Huy Tuong, Thanh Xuan Trung Ward, Thanh Xuan District, Hanoi City",
+      "workingTime": "T2 - T7",
+      "website": "https://abc.com"
+    },
+    {
+      "companyName": "CTU University",
+      "phone": "01234563213",
+      "email": "ctu@abc.com",
+      "password": "123456",
+      "token": "GPUzztwzL8FRi9HoqQHOKAW5rMPXO8fWzXYW0q44y4PENhE6il",
+      "id": 3,
+      "quantityPeople": 2000,
+      "description": "PHYSCODE VIET Technology Joint Stock Company was established in January 2016 by a team of founders who have extensive experience (over 10 years) in the software technology industry with the goal of becoming a professional and reliable partner in implementing information technology services for customers.\nPHYSCODE's areas of operation include: Consulting, building, transferring software systems according to orders for domestic and foreign business customers. Build Theme, Template, Plugin on Themeforest system for international customers (https://themeforest.net/user/physcode/portfolio).",
+      "address": "Ninh Kieu district - Can Tho city",
+      "workingTime": "T2 - T7",
+      "website": "https://ctu.com"
+    }
+  ],
+  "charts": [
+    {
+      "id": 1,
+      "dataChart": [
+        {
+          "date": "5-2024",
+          "quantity": 2
+        },
+        {
+          "date": "6-2024",
+          "quantity": 8
+        },
+        {
+          "date": "7-2024",
+          "quantity": 7
+        }
+      ],
+      "idCompany": 1
+    },
+    {
+      "dataChart": [
+        {
+          "date": "7-2024",
+          "quantity": 1
+        }
+      ],
+      "idCompany": 2,
+      "id": 2
+    }
+  ]
+}
